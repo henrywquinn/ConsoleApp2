@@ -16,8 +16,7 @@ namespace ConsoleApp2
             Console.WriteLine("What is your second number?");
             var num2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(Secondary(65, 23));
-
+          
             Console.WriteLine(Secondary(num1, num2));
 
 
